@@ -1,4 +1,6 @@
 {
   "name": "Romantic Journey",
-  "description": "A romantic countdown and memory journal app for couples."
+  "description": "A romantic countdown and memory journal app for couples.",
+  "base_branch": "main",
+  "root_directory": "./"
 }
